@@ -27,7 +27,7 @@
   padding-bottom:1px;
   display:grid;
   grid-template-columns:1fr 10fr;
-  background-color:darkviolet;
+  background-color:#222222;
   color:white;
 }
 
