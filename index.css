@@ -39,8 +39,8 @@
 }
 
 .navBar div img{
-  width:25px;
-  height:25px;
+  width:22px;
+  height:22px;
 
  
 }
@@ -54,6 +54,7 @@
   justify-content:flex-end;
   align-items:center;
   font-weight:bold;
+  font-size:1.2em;
   word-spacing:5px;
 }
 
