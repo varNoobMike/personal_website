@@ -29,7 +29,7 @@
   grid-template-columns:1fr 10fr;
   background-color:darkviolet;
   color:white;
-  font-size:2em;
+  font-size:3em;
 }
 
 
@@ -40,8 +40,8 @@
 }
 
 .navBar div img{
-  width:32px;
-  height:32px;
+  width:50px;
+  height:50px;
 
  
 }
